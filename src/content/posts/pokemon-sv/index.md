@@ -8,6 +8,6 @@ category: Game Catalogue
 draft: false
 ---
 
-> *Image description: A landscape shot of various ruined Guardians on a slightly flooded plane. In the distance, there are cliffs and mountains, along with a Sheikah Tower.*
+> *Image description: A girl with a Poké Ball-print beanie rides on the back of Miraidon, as the Pokémon looks towards the camera. They sit on top of a lighthouse, with the ocean visible behind them..*
 
-This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur luctus feugiat sapien, sed tempus ipsum malesuada at. Etiam dictum diam purus, sit amet sagittis diam maximus ut. Phasellus odio nisi, luctus non malesuada a, vehicula vitae lectus. Integer euismod auctor sapien. Maecenas neque lectus, lacinia ac tempor ut, vulputate sit amet quam. Sed a orci imperdiet odio efficitur efficitur. Aenean ante ante, malesuada eget eleifend non, luctus quis risus. Etiam porta tincidunt dui, ac ultrices ipsum porttitor ac. Maecenas imperdiet risus dolor, quis consequat nunc mattis eget. Aliquam id rutrum eros.

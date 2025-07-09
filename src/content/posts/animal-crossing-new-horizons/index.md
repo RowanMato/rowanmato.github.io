@@ -1,9 +1,9 @@
 ---
-title: The Legend of Zelda | Breath of the Wild
+title: Animal Crossing New Horizons
 published: 2025-07-09
 description: "Dummy text description."
-image: "./guardians.jpg"
-tags: ["Zelda", "Nintendo"]
+image: "./fishing-tourney.jpg"
+tags: ["Animal Crossing", "Nintendo"]
 category: Game Catalogue
 draft: false
 ---

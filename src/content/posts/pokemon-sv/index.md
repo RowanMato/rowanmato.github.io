@@ -1,9 +1,9 @@
 ---
-title: The Legend of Zelda | Breath of the Wild
+title: Pokémon Scarlet & Violet
 published: 2025-07-09
 description: "Dummy text description."
-image: "./guardians.jpg"
-tags: ["Zelda", "Nintendo"]
+image: "./miraidon.jpg"
+tags: ["Pokémon", "Nintendo"]
 category: Game Catalogue
 draft: false
 ---

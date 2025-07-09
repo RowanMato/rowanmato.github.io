@@ -1,9 +1,9 @@
 ---
-title: The Legend of Zelda | Breath of the Wild
+title: Pokémon Brilliant Diamond
 published: 2025-07-09
 description: "Dummy text description."
-image: "./guardians.jpg"
-tags: ["Zelda", "Nintendo"]
+image: "./ultra-ball.jpg"
+tags: ["Pokémon", "Nintendo"]
 category: Game Catalogue
 draft: false
 ---

@@ -58,22 +58,22 @@ export const profileConfig: ProfileConfig = {
 	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 	links: [
 		{
-			name: "Twitter",
+			name: "Bluesky",
 			icon: "fa6-brands:bluesky", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://bsky.app/profile/rowanmato.bsky.social",
 		},
-		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
-		},
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
-		},
+//		{
+//			name: "Steam",
+//			icon: "fa6-brands:steam",
+//			url: "https://store.steampowered.com",
+//		},
+//		{
+//			name: "GitHub",
+//			icon: "fa6-brands:github",
+//			url: "https://github.com/saicaca/fuwari",
+//		},
 	],
 };
 

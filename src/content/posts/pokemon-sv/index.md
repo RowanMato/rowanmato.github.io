@@ -1,6 +1,6 @@
 ---
 title: Pokémon Scarlet & Violet
-published: 2025-07-09
+published: 2025-07-08
 description: "Dummy text description."
 image: "./miraidon.jpg"
 tags: ["Pokémon", "Nintendo"]

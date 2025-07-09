@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "GoldBerry",
-			url: "https://goldberry.carrd.co/", // Internal links should not include the base path, as it is automatically added
+			url: "https://goldberry.carrd.co", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
@@ -64,16 +64,16 @@ export const profileConfig: ProfileConfig = {
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://bsky.app/profile/rowanmato.bsky.social",
 		},
-//		{
-//			name: "Steam",
-//			icon: "fa6-brands:steam",
-//			url: "https://store.steampowered.com",
-//		},
-//		{
-//			name: "GitHub",
-//			icon: "fa6-brands:github",
-//			url: "https://github.com/saicaca/fuwari",
-//		},
+		{
+			name: "Steam",
+			icon: "fa6-brands:steam",
+			url: "https://store.steampowered.com",
+		},
+		{
+			name: "GitHub",
+			icon: "fa6-brands:github",
+			url: "https://github.com/saicaca/fuwari",
+		},
 	],
 };
 

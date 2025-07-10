@@ -1,6 +1,6 @@
 ---
 title: Animal Well
-published: 2025-07-07
+published: 2025-07-03
 description: "Dummy text description."
 image: "./credits-small.jpg"
 tags: ["Indie", "Switch", "PS4", "Xbox", "PC"]

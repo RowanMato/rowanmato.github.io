@@ -1,6 +1,6 @@
 ---
 title: Spider-Man | Miles Morales
-published: 2025-07-07
+published: 2025-07-04
 description: "Dummy text description."
 image: "./miles-shoulder-armored.jpg"
 tags: ["Spider-Man", "PS4", "PS5", "PlayStation"]

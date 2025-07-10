@@ -3,7 +3,7 @@ title: Pokémon Brilliant Diamond
 published: 2025-07-06
 description: "Dummy text description."
 image: "./ultra-ball.jpg"
-tags: ["Pokémon", "Nintendo"]
+tags: ["Pokemon", "Switch", "Nintendo"]
 category: Game Catalogue
 draft: false
 ---

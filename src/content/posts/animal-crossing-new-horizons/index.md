@@ -3,7 +3,7 @@ title: Animal Crossing New Horizons
 published: 2025-07-07
 description: "Dummy text description."
 image: "./fishing-tourney.jpg"
-tags: ["Animal Crossing", "Nintendo"]
+tags: ["Animal Crossing", "Switch", "Nintendo"]
 category: Game Catalogue
 draft: false
 ---

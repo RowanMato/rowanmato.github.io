@@ -3,7 +3,7 @@ title: The Legend of Zelda | Breath of the Wild
 published: 2025-07-09
 description: "Dummy text description."
 image: "./guardians.jpg"
-tags: ["Zelda", "Nintendo"]
+tags: ["Zelda", "Switch", "Nintendo"]
 category: Game Catalogue
 draft: false
 ---

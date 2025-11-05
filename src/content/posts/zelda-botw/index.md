@@ -5,7 +5,7 @@ description: "Dummy text description."
 image: "./guardians.jpg"
 tags: ["Zelda", "Switch", "Nintendo"]
 category: Game Catalogue
-draft: false
+draft: true
 ---
 
 > *Image description: A landscape shot of various ruined Guardians on a slightly flooded plane. In the distance, there are cliffs and mountains, along with a Sheikah Tower.*

@@ -5,7 +5,7 @@ description: "Dummy text description."
 image: "./credits-small.jpg"
 tags: ["Indie", "Switch", "PS4", "Xbox", "PC"]
 category: Game Catalogue
-draft: false
+draft: true
 ---
 
 > *Image description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur luctus feugiat sapien, sed tempus ipsum malesuada at.*

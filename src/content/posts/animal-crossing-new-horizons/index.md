@@ -5,7 +5,7 @@ description: "Dummy text description."
 image: "./fishing-tourney.jpg"
 tags: ["Animal Crossing", "Switch", "Nintendo"]
 category: Game Catalogue
-draft: false
+draft: true
 ---
 
 > *Image description: The player poses for a selfie next to CJ, standing in front of the Fishing Tourney tent.*

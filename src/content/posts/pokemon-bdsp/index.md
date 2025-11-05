@@ -5,7 +5,7 @@ description: "Dummy text description."
 image: "./ultra-ball.jpg"
 tags: ["Pokemon", "Switch", "Nintendo"]
 category: Game Catalogue
-draft: false
+draft: true
 ---
 
 > *Image description: A blond Pokémon trainer in a blue jacket throws an Ultra Ball towards the camera, while standing in a large field of pink flowers.*

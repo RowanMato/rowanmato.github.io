@@ -5,7 +5,7 @@ description: "Dummy text description."
 image: "./miraidon.jpg"
 tags: ["Pokemon", "Switch", "Nintendo"]
 category: Game Catalogue
-draft: false
+draft: true
 ---
 
 > *Image description: A girl with a Poké Ball-print beanie rides on the back of Miraidon, as the Pokémon looks towards the camera. They sit on top of a lighthouse, with the ocean visible behind them.*
